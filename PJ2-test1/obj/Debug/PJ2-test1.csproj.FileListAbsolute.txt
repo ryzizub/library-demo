@@ -1,0 +1,6 @@
+D:\PJ2-test1\PJ2-test1\bin\Debug\PJ2_test1.dll
+D:\PJ2-test1\PJ2-test1\bin\Debug\PJ2_test1.pdb
+D:\PJ2-test1\PJ2-test1\obj\Debug\PJ2-test1.csprojResolveAssemblyReference.cache
+D:\PJ2-test1\PJ2-test1\obj\Debug\PJ2-test1.csproj.CoreCompileInputs.cache
+D:\PJ2-test1\PJ2-test1\obj\Debug\PJ2_test1.dll
+D:\PJ2-test1\PJ2-test1\obj\Debug\PJ2_test1.pdb
