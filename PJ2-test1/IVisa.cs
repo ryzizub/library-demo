@@ -1,6 +1,4 @@
-﻿using System;
-using System.Data.SqlTypes;
-
+﻿
 namespace PJ2_test1
 {
     public interface IVisa

@@ -1,6 +1,4 @@
-﻿using System.Runtime.Serialization.Formatters;
-
-namespace PJ2_test1
+﻿namespace PJ2_test1
 {
     public class NewZelandVisa: IVisa
     {

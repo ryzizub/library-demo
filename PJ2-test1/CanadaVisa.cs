@@ -1,5 +1,4 @@
-﻿using System.Runtime.Remoting.Messaging;
-
+﻿
 namespace PJ2_test1
 {
     public class CanadaVisa: IVisa
